@@ -8,6 +8,7 @@ h1 {
 
 #content {
     color:teal;
+    float: left;
 }
 
 .container {
@@ -17,3 +18,7 @@ h1 {
 .nav-link {
     text-align: right;
 }
+ .wrapper {
+    padding-left: 1%;
+    padding-right: 1%;
+ }

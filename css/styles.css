@@ -13,3 +13,7 @@ h1 {
 .container {
     text-align: center;
 }
+
+.nav-link {
+    text-align: right;
+}

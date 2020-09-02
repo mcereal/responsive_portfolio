@@ -11,10 +11,10 @@ h1 {
     float: left;
 }
 
-.container {
-    text-align: center;
-}
-
 .nav-link {
     text-align: right;
+}
+
+#footer {
+    text-align: center;
 }

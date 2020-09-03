@@ -1,5 +1,5 @@
 body {
-    background-image: url("/images/background.png");
+    background-image: url("../images/background.png");
     background-color: turquoise;
     color: teal;
 }
@@ -19,4 +19,8 @@ h1 {
 #aboutMeText {
     background-color: turquoise;
     margin-top: 5em;
+}
+
+#profilepic {
+    width: 35%;
 }

@@ -1,14 +1,11 @@
 body {
+    background-image: url("/images/background.png");
     background-color: turquoise;
+    color: teal;
 }
 
 h1 {
     color: teal;
-}
-
-#content {
-    color:teal;
-    float: left;
 }
 
 .nav-link {
@@ -17,4 +14,9 @@ h1 {
 
 #footer {
     text-align: center;
+}
+
+#aboutMeText {
+    background-color: turquoise;
+    margin-top: 5em;
 }

@@ -24,3 +24,8 @@ h1 {
 #profilepic {
     width: 35%;
 }
+
+.textWrap {
+    float: left;
+    margin: 10px;
+}

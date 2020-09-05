@@ -4,6 +4,7 @@ body {
     color: teal;
     display: flex;
     justify-content: flex-start;
+    flex-wrap: wrap;
 }
 
 #aboutMeText {
@@ -48,6 +49,13 @@ body {
       width: 387px;
     }
   }
+
+#messageForm {
+    background-color: turquoise;
+    padding: 1%;
+    margin-left: 2%;
+    margin-top: 7em;
+}
 
 #footer {
     text-align: center;

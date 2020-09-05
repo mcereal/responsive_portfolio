@@ -3,6 +3,8 @@ body {
     background-color: turquoise;
     color: teal;
     display: flex;
+    justify-content: flex-start;
+    min-width: fit-content;
 }
 
 #aboutMeText {
@@ -17,6 +19,23 @@ body {
     margin-bottom: 1%;
 }
 
+#bootstrap-override img {
+    height: 350px;
+    width: 350px;
+    margin: 1%;
+}
+
+#portfolioPics {
+    background-color: turquoise;
+    margin: 2%;
+    margin-top: 7em;
+}
+
 #footer {
     text-align: center;
+}
+
+#test {
+    overflow-x: auto;
+    white-space: nowrap;
 }

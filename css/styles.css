@@ -2,28 +2,20 @@ body {
     background-image: url("../images/background.png");
     background-color: turquoise;
     color: teal;
-}
-
-h1 {
-    color: teal;
-}
-
-#footer {
-    text-align: center;
+    display: flex;
 }
 
 #aboutMeText {
     background-color: turquoise;
-    margin-top: 5em;
-    margin-left: 5%;
-    width: 50%;
+    margin: 2%;
+    margin-top: 7em;
 }
 
 #profilepic {
     width: 35%;
+    margin-right: 1%;
 }
 
-.textWrap {
-    float: left;
-    margin: 10px;
+#footer {
+    text-align: center;
 }

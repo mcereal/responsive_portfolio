@@ -8,10 +8,6 @@ h1 {
     color: teal;
 }
 
-.nav-link {
-    text-align: right;
-}
-
 #footer {
     text-align: center;
 }
@@ -19,6 +15,8 @@ h1 {
 #aboutMeText {
     background-color: turquoise;
     margin-top: 5em;
+    margin-left: 5%;
+    width: 50%;
 }
 
 #profilepic {

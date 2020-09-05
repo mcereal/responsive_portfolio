@@ -34,8 +34,3 @@ body {
 #footer {
     text-align: center;
 }
-
-#test {
-    overflow-x: auto;
-    white-space: nowrap;
-}

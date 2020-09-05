@@ -4,7 +4,6 @@ body {
     color: teal;
     display: flex;
     justify-content: flex-start;
-    min-width: fit-content;
 }
 
 #aboutMeText {
@@ -30,6 +29,25 @@ body {
     margin: 2%;
     margin-top: 7em;
 }
+
+@media (max-width: 1200px) {
+    #portfolioPics {
+      width: 764px;
+    }
+  }
+
+@media (min-width: 1200px) {
+    #portfolioPics {
+      width: 764px;
+    }
+  }
+
+
+@media (max-width: 992px) {
+    #portfolioPics {
+      width: 387px;
+    }
+  }
 
 #footer {
     text-align: center;

@@ -1,45 +1,45 @@
 body {
-    background-image: url("../images/background.png");
-    background-color: turquoise;
-    color: teal;
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
+  background-image: url("../images/background.png");
+  background-color: turquoise;
+  color: teal;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 #aboutMeText {
-    background-color: turquoise;
-    margin: 2%;
-    margin-top: 7em;
+  background-color: turquoise;
+  margin: 2%;
+  margin-top: 7em;
 }
 
 #profilePic {
-    width: 35%;
-    margin-right: 1%;
-    margin-bottom: 1%;
+  width: 35%;
+  margin-right: 1%;
+  margin-bottom: 1%;
 }
 
 #bootstrap-override img {
-    height: 350px;
-    width: 350px;
-    margin: 1%;
+  height: 350px;
+  width: 350px;
+  margin: 1%;
 }
 
 #portfolioPics {
-    background-color: turquoise;
-    margin: 2%;
-    margin-top: 7em;
+  background-color: turquoise;
+  margin: 2%;
+  margin-top: 7em;
 }
 
 #messageForm {
-    background-color: turquoise;
-    padding: 1%;
-    margin-left: 2%;
-    margin-top: 7em;
+  background-color: turquoise;
+  padding: 1%;
+  margin-left: 2%;
+  margin-top: 7em;
 }
 
 #footer {
-    text-align: center;
+  text-align: center;
 }
 
 @media (max-width: 1200px) {

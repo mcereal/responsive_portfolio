@@ -31,25 +31,6 @@ body {
     margin-top: 7em;
 }
 
-@media (max-width: 1200px) {
-    #portfolioPics {
-      width: 764px;
-    }
-  }
-
-@media (min-width: 1200px) {
-    #portfolioPics {
-      width: 764px;
-    }
-  }
-
-
-@media (max-width: 992px) {
-    #portfolioPics {
-      width: 387px;
-    }
-  }
-
 #messageForm {
     background-color: turquoise;
     padding: 1%;
@@ -59,4 +40,23 @@ body {
 
 #footer {
     text-align: center;
+}
+
+@media (max-width: 1200px) {
+  #portfolioPics {
+    width: 764px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #portfolioPics {
+    width: 764px;
+  }
+}
+
+
+@media (max-width: 992px) {
+  #portfolioPics {
+    width: 387px;
+  }
 }
